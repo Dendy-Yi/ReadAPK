@@ -250,6 +250,10 @@ public class ReadUtil {
         }
         return map;
     }
+    
+    private void test(){
+    	System.out.println("test github!");
+    }
 
 
     public static void main(String[] args) {
