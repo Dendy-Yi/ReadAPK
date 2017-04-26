@@ -254,6 +254,9 @@ public class ReadUtil {
     private void test(){
     	System.out.println("test github!");
     }
+    private void testBranch(){
+    	System.out.println("testBranch!");
+    }
 
 
     public static void main(String[] args) {
